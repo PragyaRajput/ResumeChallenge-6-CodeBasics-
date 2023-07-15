@@ -1,5 +1,5 @@
 # ResumeChallenge-6-CodeBasics-
-Challenge: Provide Insights to the Marketing Team in Food & Beverage Industry<a href> https://codebasics.io/challenge/codebasics-resume-project-challenge</a href>
+Challenge: Provide Insights to the Marketing Team in Food & Beverage Industry[https://codebasics.io/challenge/codebasics-resume-project-challenge]
 Domain: F & B   Function: Marketing  
 
 CodeX is a German beverage company that is aiming to make its mark in the Indian market. A few months ago, they launched their energy drink in 10 cities in India.
